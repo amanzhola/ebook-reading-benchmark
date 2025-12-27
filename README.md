@@ -46,6 +46,7 @@ Fenwick Tree   | Дерево Фенвика по страницам            
 
 ## Структура проекта
 
+```
 .
 ├── Makefile
 ├── README.md
@@ -57,7 +58,7 @@ Fenwick Tree   | Дерево Фенвика по страницам            
     ├── reading_sqrt.cpp
     ├── reading_fenwick.cpp
     └── log_duration.h
-
+```
 ---
 
 ## Файлы проекта
@@ -95,6 +96,8 @@ Makefile
 
 Ожидаемый вывод для sample.txt:
 
+```
+
 0
 1
 0
@@ -103,6 +106,7 @@ Makefile
 1
 0.5
 
+```
 ---
 
 ## Быстрый старт (Windows / MinGW)
