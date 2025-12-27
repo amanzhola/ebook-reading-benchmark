@@ -1,4 +1,7 @@
 #pragma once
+
+#ifdef ENABLE_BENCHMARK
+
 #include <chrono>
 #include <iostream>
 #include <string>
@@ -11,7 +14,7 @@ public:
 
     ~LogDuration() {
         using namespace std::chrono;
-        auto end = steady_clock::now();
+        const auto end = steady_clock::now();
         std::cerr << msg_ << ": "
                   << duration_cast<milliseconds>(end - start_).count()
                   << " ms\n";
@@ -21,3 +24,5 @@ private:
     std::string msg_;
     std::chrono::steady_clock::time_point start_;
 };
+
+#endif

@@ -1,0 +1,9 @@
+*.exe
+input.txt
+out.txt
+sample_out.txt
+naive.txt
+sqrt.txt
+fenwick.txt
+gen.exe
+*_bench.exe
