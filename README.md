@@ -1,3 +1,4 @@
+C++ • Algorithms • Fenwick Tree • √-Decomposition • Benchmark
 # Ebook Reading Benchmark
 
 Мини-проект для сравнения разных структур данных  
