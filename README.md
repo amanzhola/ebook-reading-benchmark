@@ -229,3 +229,20 @@ mingw32-make gen
 
 Проект предназначен для учебного сравнения алгоритмических подходов  
 и анализа влияния асимптотики и I/O на производительность.
+
+Видео для Дерево Фенвика ->>>
+1. Fenwick Tree Quick Explanation
+https://www.youtube.com/watch?v=1U6pl4VJ50U
+
+2. Дерево Фенвика | Бинарное индексированное дерево
+https://www.youtube.com/watch?v=muW1tOyqUZ4
+
+3. Fenwick Tree Tutorial | Foolw-up problem from Codeforces | Check first comment before starting
+https://www.youtube.com/watch?v=9uaXG62Y8Uw&t=832s
+
+4. Fenwick Tree (Binary Index Tree) - Quick Tutorial and Source Code Explanation
+https://www.youtube.com/watch?v=uSFzHCZ4E-8
+
+5. Очень хорошее видео
+Fenwick Tree or Binary Indexed Tree
+https://www.youtube.com/watch?v=CWDQJGaN1gY
